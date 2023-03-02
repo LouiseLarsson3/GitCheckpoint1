@@ -1,0 +1,5 @@
+1. git log
+
+2. git add . , git commit -m "Changes made" and git push
+
+3. git init 
